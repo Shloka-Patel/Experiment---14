@@ -157,7 +157,7 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14B.png) 
 
 (C) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14C.png) 
 
 (D) <br> 
 ![]() 
