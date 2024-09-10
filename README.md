@@ -13,6 +13,8 @@
 // PRN - 23070123120 
 // EXPERIMENT - 14(A)  
 
+// Program to show single inheritance.
+
 # include <iostream>
 # include <string>
 using namespace std;
@@ -45,6 +47,8 @@ int main()
 // NAME - SHLOKA PATEL 
 // PRN - 23070123120 
 // EXPERIMENT - 14(B) 
+
+// Program toshow multiple inheritance.
 
 #include<iostream> 
 #include<string> 
@@ -87,6 +91,8 @@ int main(){
 // NAME - SHLOKA PATEL 
 // PRN - 23070123120 
 // EXPERIMENT - 14(C) 
+
+// Program to showmultilevel inheritance.
 
 #include<iostream> 
 #include<string>
