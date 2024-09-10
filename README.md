@@ -1,8 +1,10 @@
 # Experiment---14 
 
 ### Aim 
+To study and implement Inheritance. 
 
 ### Software 
+Visual Studio Code. 
 
 ### Theory 
 
@@ -201,6 +203,7 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14C.png) 
 
 (D) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14D.png) 
 
 ### Conclusion 
+I learnt about inheritance in C++, its keywords, modes, types and performed programs based on that. 
