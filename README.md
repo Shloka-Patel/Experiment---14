@@ -7,6 +7,42 @@ To study and implement Inheritance.
 Visual Studio Code. 
 
 ### Theory 
+Inheritance -> The capability of a class to derive properties and characteristics from another class is called Inheritance. Inheritance is one of the most important features of Object Oriented Programming in C++. <br> 
+Modes of Inheritance in C++ <br> 
+Mode of inheritance controls the access level of the inherited members of the base class in the derived class. In C++, there are 3 modes of inheritance: <br> 
+
+(1) Public Mode <br> 
+(2) Protected Mode  <br> 
+(3) Private Mode  <br> 
+
+Types Of Inheritance in C++  <br> 
+The inheritance can be classified on the basis of the relationship between the derived class and the base class. In C++, we have maily 4 types of inheritances:  <br> 
+
+(1) Single inheritance <br> 
+In single inheritance, a class is allowed to inherit from only one class. i.e. one base class is inherited by one derived class only.<br> 
+
+Syntax <br> 
+
+class subclass_name : access_mode base_class <br> 
+{ <br> 
+  //  body of subclass <br> 
+};                  <br> 
+
+(2) Multilevel inheritance <br> 
+Multiple Inheritance is a feature of C++ where a class can inherit from more than one class. i.e one subclass is inherited from more than one base class. <br> 
+
+Syntax <br> 
+
+class subclass_name : access_mode base_class1, access_mode base_class2, .... <br> 
+{ <br> 
+  // body of subclass <br> 
+}; <br> 
+
+(3) Multiple inheritance <br> 
+In this type of inheritance, a derived class is created from another derived class and that derived class can be derived from a base class or any other derived class. There can be any number of levels. <br> 
+
+(4) Hierarchical inheritance <br> 
+In this type of inheritance, more than one subclass is inherited from a single base class. i.e. more than one derived class is created from a single base class.  <br> 
 
 ### Code 
 (A) <br> 
